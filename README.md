@@ -1,2 +1,8 @@
+# Develop
 * npm install
-* npm run watch
+* gulp [watch]
+
+# Serve
+* npm install httpster -g (once!)
+* cd dist
+* httpster
