@@ -1,8 +1,8 @@
 # Develop
-* npm install
-* gulp [watch]
+* `npm install`
+* `gulp [watch]`
 
 # Serve
-* npm install httpster -g (once!)
-* cd dist
-* httpster
+* `npm install httpster -g` (once!)
+* `cd dist`
+* `httpster`
